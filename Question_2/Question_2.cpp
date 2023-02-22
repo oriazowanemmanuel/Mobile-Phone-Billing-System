@@ -12,7 +12,7 @@ Brief Description of Code:
  Discount types:
  1. 100 minutes below - No Discounts
  2. Above 100 mins up to 200 mins - 5% discount
- 3. Above 200 mins up to 400 mins - 10% discount
+ 3. Above 200 mins up to 400 mins - 10% discoun
  4. Above 400 mins - 15% discount
 
  Other extra features:
